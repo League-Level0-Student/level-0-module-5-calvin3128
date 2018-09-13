@@ -39,7 +39,7 @@ public class SkillPractice {
 
 		for (int i = 0; i < 90;) {
 			i = i + 3;
-			System.out.println(i);
+			System.out.println(i / 3);
 		}
 
 	}
